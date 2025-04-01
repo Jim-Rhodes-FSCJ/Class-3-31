@@ -5,8 +5,8 @@
 print("Hello world!")
 print('Welcome to Github!')
 
-x = 1
-y = 2
-z = x + y
+firstNumber = 1
+secondNumber = 2
+sum = firstNumber + secondNumber
 
-print("The sum of the two numbers is ", z)
+print("The sum of the two numbers is ", str(sum)

@@ -3,3 +3,4 @@
 Here is a simple python program
 
 print("Hello world!")
+print('Welcome to Github!')
